@@ -1,0 +1,7 @@
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioXIII\CAI_EjercicioXIII\CAI_EjercicioXIII\bin\Debug\CAI_EjercicioXIII.exe.config
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioXIII\CAI_EjercicioXIII\CAI_EjercicioXIII\bin\Debug\CAI_EjercicioXIII.exe
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioXIII\CAI_EjercicioXIII\CAI_EjercicioXIII\bin\Debug\CAI_EjercicioXIII.pdb
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioXIII\CAI_EjercicioXIII\CAI_EjercicioXIII\obj\Debug\CAI_EjercicioXIII.csprojAssemblyReference.cache
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioXIII\CAI_EjercicioXIII\CAI_EjercicioXIII\obj\Debug\CAI_EjercicioXIII.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioXIII\CAI_EjercicioXIII\CAI_EjercicioXIII\obj\Debug\CAI_EjercicioXIII.exe
+C:\Users\Emanuel\Documents\GitHub\CAI_EjercicioXIII\CAI_EjercicioXIII\CAI_EjercicioXIII\obj\Debug\CAI_EjercicioXIII.pdb
